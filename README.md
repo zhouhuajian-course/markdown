@@ -4,4 +4,4 @@
 
 [CSDN学院][1]
 
-[1]: https://test
+[1]: https://edu.csdn.net/course/detail/31932
